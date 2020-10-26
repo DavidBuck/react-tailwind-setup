@@ -1,5 +1,3 @@
-import React from "react"
-
 function App() {
   return (
     <div className="container mx-auto p-4 m-4 border-solid border-2 border-gray-600 bg-gray-200">
